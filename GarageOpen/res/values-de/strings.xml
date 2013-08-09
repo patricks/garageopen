@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+    <string name="app_name">GarageOpen</string>
+    <string name="action_settings">Einstellungen</string>
+    <string name="open">Öffnen</string>
+    <string name="pref_phonenumber">Telefonnummer</string>
+    <string name="pref_smstext">Nachricht</string>
+    <string name="lbl_phonenumber">Telefonnummer</string>
+    <string name="lbl_sms_message">Nachricht</string>
+    <string name="tmp_text">tmp_text</string>
+    <string name="pref_version">Version</string>
+    <string name="error_no_phonenumber">FEHLER: Keine Telefonnummer gesetzt</string>
+    <string name="info_sending_sms">Sende SMS…</string>
+    <string name="error_no_message">FEHLER: Keine Nachricht gesetzt</string>
+</resources>
